@@ -1,4 +1,4 @@
-This was done as part of Course [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)
+This was done as part of Coursera [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)
 
 - This project aimed to answer the possibility of predicting the success of landing of the rocket’s first stage to reduce the overall cost of launching rocket.
 - The analysis was based on SpaceX historical launch data
