@@ -4,6 +4,9 @@ This was done as part of Coursera [Applied Data Science Capstone](https://www.co
 - The analysis was based on SpaceX historical launch data
 - The data was collected from a publicly available SpaceX API, and web scraping of wiki pages about SpaceX rocket flights information
 - Data was preprocessed to replace missing values
-- Performed exploratory data analysis (EDA) using visualization andSQL to better understand the data
+- Performed exploratory data analysis (EDA) using visualization and SQL to better understand the data
 - Performed interactive visual analytics using Folium and PlotlyDash to better relate the data to the geographical locations
 - Performed predictive analysis using various classification models
+
+Some of the results
+![Interactive Dashboard1](https://github.com/Abddo9/Data-Science-Projects/blob/main/SpaceX-Project/Results/InteractiveDashboarding.png?raw=true)
